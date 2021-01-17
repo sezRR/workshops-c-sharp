@@ -1,0 +1,13 @@
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.exe
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.deps.json
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.json
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.dev.json
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\sezer\source\repos\Workshops\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csprojAssemblyReference.cache
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfo.cs
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\sezer\source\repos\Workshops\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.genruntimeconfig.cache
