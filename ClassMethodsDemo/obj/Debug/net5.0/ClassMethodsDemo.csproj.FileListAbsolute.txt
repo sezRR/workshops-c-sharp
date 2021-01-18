@@ -1,0 +1,16 @@
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.exe
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.deps.json
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.runtimeconfig.json
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.runtimeconfig.dev.json
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.dll
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ref\ClassMethodsDemo.dll
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\bin\Debug\net5.0\ClassMethodsDemo.pdb
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.csprojAssemblyReference.cache
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.AssemblyInfoInputs.cache
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.AssemblyInfo.cs
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.dll
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ref\ClassMethodsDemo.dll
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.pdb
+C:\Users\sezer\source\repos\Workshops\ClassMethodsDemo\obj\Debug\net5.0\ClassMethodsDemo.genruntimeconfig.cache
