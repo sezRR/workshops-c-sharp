@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefAndOut", "RefAndOut\RefAndOut.csproj", "{E378E29D-755E-45F3-88D6-311288A40498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodsDemo", "ClassMethodsDemo\ClassMethodsDemo.csproj", "{248D4EFB-9B26-4F5B-8833-D49BFDFC8FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodsDemo", "ClassMethodsDemo\ClassMethodsDemo.csproj", "{248D4EFB-9B26-4F5B-8833-D49BFDFC8FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{36B72992-6D33-4F90-85D5-81D54E841EB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{248D4EFB-9B26-4F5B-8833-D49BFDFC8FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{248D4EFB-9B26-4F5B-8833-D49BFDFC8FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{248D4EFB-9B26-4F5B-8833-D49BFDFC8FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B72992-6D33-4F90-85D5-81D54E841EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B72992-6D33-4F90-85D5-81D54E841EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B72992-6D33-4F90-85D5-81D54E841EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B72992-6D33-4F90-85D5-81D54E841EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
