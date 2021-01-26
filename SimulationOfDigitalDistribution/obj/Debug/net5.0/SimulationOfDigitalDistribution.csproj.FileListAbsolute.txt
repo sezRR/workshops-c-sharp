@@ -1,0 +1,16 @@
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.csprojAssemblyReference.cache
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.AssemblyInfoInputs.cache
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.AssemblyInfo.cs
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.csproj.CoreCompileInputs.cache
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.exe
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.deps.json
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.runtimeconfig.json
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.runtimeconfig.dev.json
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.dll
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\ref\SimulationOfDigitalDistribution.dll
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\bin\Debug\net5.0\SimulationOfDigitalDistribution.pdb
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.dll
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\ref\SimulationOfDigitalDistribution.dll
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.pdb
+C:\Users\sezer\source\repos\Workshops\SimulationOfDigitalDistribution\obj\Debug\net5.0\SimulationOfDigitalDistribution.genruntimeconfig.cache
